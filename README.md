@@ -3,9 +3,9 @@ web3modal example
 
 
 ## Install
-···
+```
 npm install next@latest
-···
+```
 
 ## Run
 ```
