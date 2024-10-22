@@ -11,7 +11,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build && cp -r .next/standalone ./public",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
