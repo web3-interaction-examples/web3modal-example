@@ -1,0 +1,46 @@
+# dependencies
+/node_modules
+
+# Next.js build output
+/.next/
+/out/
+
+# production build
+/build
+
+# debug log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local environment file
+.env*.local
+
+# vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# operating system file
+.DS_Store
+*.pem
+
+# test coverage
+/coverage
+
+# PWA file
+/public/sw.js
+/public/workbox-*.js
+
+# Storybook build output
+/storybook-static
+
+# other
+*.log
+.idea
+.vscode
+
+# env
+.env
