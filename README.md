@@ -1,6 +1,10 @@
 # web3modal-example
-web3modal example
+web3modal example.
 
+## Create a ``.env`` file
+```
+NEXT_PUBLIC_PROJECT_ID=your project id
+```
 
 ## Install
 ```
