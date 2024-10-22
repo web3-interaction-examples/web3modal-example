@@ -11,3 +11,6 @@ npm install next@latest
 ```
 npm run dev
 ```
+
+## How to get project id?
+- https://cloud.walletconnect.com
