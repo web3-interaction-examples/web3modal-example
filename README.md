@@ -5,6 +5,7 @@ web3modal example
 ## Install
 ```
 npm install next@latest
+npm install --save-dev pino-pretty
 ```
 
 ## Run
